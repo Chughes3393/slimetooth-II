@@ -1,0 +1,33 @@
+#footer-div{
+    margin-top: 1%;
+    bottom: 0;
+    height: 5rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    background-color: black;
+    border-bottom: 0;
+    width: 100%;
+    justify-content: center;
+}
+
+#text-div{
+    margin: .5%;
+    padding: .5%;
+    height: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#footer-p{
+    color: white;
+}
+
+.icon-white{
+    color: white;
+}

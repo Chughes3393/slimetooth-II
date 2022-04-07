@@ -1,0 +1,19 @@
+#home-imgs{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card{
+    width: 20em;
+    height: 30em;
+    margin: 1%;
+    background-color: #9300FF;
+    border: 1px solid black;
+}
+
+#lead-img{
+    max-height: 20rem;
+    max-width: 20rem;
+}
